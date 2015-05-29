@@ -1,2 +1,2 @@
 # testrepo
-Test repo
+This was a trial.
